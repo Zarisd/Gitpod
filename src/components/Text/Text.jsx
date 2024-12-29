@@ -4,11 +4,16 @@ import './Text.css'
 const Text = () => {
   return (
     <>
-    <h2> 
-        Select project,
-        <span className='span'>  Lorem ipsum dolor, sit amet consectetur adipisicing elit. Dolor, rem mollitia harum eius dignissimos, aliquam sed omnis asperiores, tenetur nam quos! In animi laboriosam debitis! Recusandae, excepturi? Reprehenderit, quaerat neque.</span>
+    <div className="text">
+      <div className="container">
+    <h2> Select project,
+        <span className='span'> check dependencies, checkout branch, view
+        readme.txt, install tools, run build, run test,</span>
     start coding.
     </h2>
+
+      </div>
+    </div>
     
     </>
   );

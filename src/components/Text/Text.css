@@ -1,4 +1,22 @@
 .span{
     
 text-decoration: line-through;
+
 }
+ .text {
+    text-align: center;
+    align-items: center;
+    h2{
+font-size: 40px;
+        display: flex;
+        flex-direction: column;
+    }
+
+     span {
+        text-align: center;
+        align-items: center;
+        max-width: 800px;
+        color: gray;
+        margin: 0 auto;
+     }
+ }

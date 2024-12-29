@@ -3,6 +3,8 @@ import Header from './components/Header/Header'
 import './App.css'
 import Always from './components/Always/Always'
 import Text from './components/Text/Text'
+import Cd from './components/Cd/Cd'
+
 
 const App = () => {
   return (
@@ -10,7 +12,7 @@ const App = () => {
    <Header/>
   <Always/>
    <Text/>
-   
+   <Cd/>
    </>
   )
 }
