@@ -1,0 +1,32 @@
+
+.logos {
+    display: flex;
+    flex-wrap: wrap; 
+    justify-content: space-between; 
+    gap: 50px; 
+    align-items: center; 
+    max-width: 1000px;
+}
+.box__logos{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    place-items: center;
+
+  }
+  
+ 
+  .used__logo {
+    max-width: 100%; 
+    height: auto; 
+    width: 100px; 
+    object-fit: contain; 
+    transition: transform 0.3s ease-in-out; 
+
+  }
+
+  
+  .used__logo:hover {
+    transform: scale(1.1); 
+  }
+  

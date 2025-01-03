@@ -20,7 +20,7 @@ const Cd = () => {
            
            
             <div className="cd2">
-                <button className='btn-1'>More on prebuilds</button>
+                <button className='btn-3'>More on prebuilds</button>
                 <button className='btn-2'>Documentation</button>
             </div>
         </div>

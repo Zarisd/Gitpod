@@ -2,11 +2,10 @@
 
 
 
-.btn-1{
+.btn-3{
     background-color: #FFAE33;
     color: black;
-    width: 162px;
-    height: 32px;
+ padding: 10px 45px;
     border-radius: 12px;
     border: none;
     font-size: 14px;
@@ -15,8 +14,7 @@
 .btn-2{
     background-color: #FFB0AE;
     color: black;
-    width: 162px;
-    height: 32px;
+    padding: 10px 45px;
     border-radius: 12px;
     border: none;
     font-size: 14px;

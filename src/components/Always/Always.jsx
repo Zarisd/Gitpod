@@ -14,7 +14,7 @@ const Always = () => {
               <p> <span>Spin up fresh, automated dev environments </span> for each task, in the cloud, in seconds.</p>
 
               <div div className="box">
-                <button className='btn-1'> <b>Try Now </b></button>
+                <button className='btn-1'> Try Now </button>
 
                 <p> <span>Open a workspace.</span>  Start from any Git context.</p>
 

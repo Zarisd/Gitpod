@@ -1,0 +1,50 @@
+.remote__text{
+    padding-top: 30px;
+    padding-bottom: 10px;
+    max-width: 800px;
+    font-size: 24px;
+    color: #12100CB2 ;
+}
+.remote__wrapper{
+    margin-top: 200px;
+    display: flex;
+    place-items: center;
+    flex-direction: column;
+    text-align: center;
+
+    h1 {
+        font-size: 52px;
+        color: #12100C;
+    }
+
+
+    .but-1{
+        padding: 6px 11px;
+        color: black;
+        font-size: 18px;
+        border-radius: 10px;
+        background-color: white;
+        border: none;
+        display: flex;
+        text-align: center;
+        align-items: center;
+        justify-content: center;
+         img {
+            width: 20px;
+            height: 20px;
+         }
+    }
+}
+
+.but{
+    display: flex;
+    gap: 10px;
+    place-items: center;
+
+}
+.remote__wrapp{
+    display: flex;
+    place-items: center;
+    flex-direction: column;
+    gap: 20px;
+}
